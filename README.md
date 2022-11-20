@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dony Wahyu Ramadhan
 - 👀 I’m interested in NodeJs, PHP , and any other backend languages.
-- 🌱 I’m currently learning NodeJs.
-- 💞️ I’m looking to collaborate on NodeJs Project.
+- 👀 I’m also interested in Flutter.
+- 🌱 I’m currently learning Node Js and Flutter.
 - 📫 How to reach me donyramadhan@gmail.com
 
 <!---
