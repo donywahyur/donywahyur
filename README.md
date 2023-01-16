@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dony Wahyu Ramadhan
 - 👀 I’m interested in Web Programming Language.
 - 👀 I’m also interested in Flutter.
-- 🌱 I’m currently learning Node Js and Flutter.
+- 🌱 I’m currently learning Node Js,React and Flutter.
 - 📫 How to reach me donyramadhan@gmail.com
 
 <!---
