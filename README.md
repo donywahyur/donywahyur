@@ -1,7 +1,7 @@
 # Hello , You Can Call Me Dony
 
 
-🔭 I’m currently working on web development<br>🌱 I’m currently learning flutter and react js
+🔭 I’m currently working on web development<br>🌱 I’m currently learning flutter and go
 
 
 # 💻 Tech Stack:
