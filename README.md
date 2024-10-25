@@ -10,5 +10,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=donywahyur&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=donywahyur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=donywahyur&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
